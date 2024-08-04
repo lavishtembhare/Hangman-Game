@@ -4,10 +4,10 @@ This is a simple Hangman game implemented using Python and Tkinter with a MySQL 
 
 Features
 
-- Graphical User Interface**: A simple and intuitive interface built with Tkinter.
-- Player Records**: Stores each player's wins and losses in a MySQL database.
-- Random Word Selection**: Randomly selects a word from a predefined list for each game.
-- Multiple Attempts**: Allows players a limited number of incorrect guesses.
+- Graphical User Interface: A simple and intuitive interface built with Tkinter.
+- Player Records: Stores each player's wins and losses in a MySQL database.
+- Random Word Selection: Randomly selects a word from a predefined list for each game.
+- Multiple Attempts: Allows players a limited number of incorrect guesses.
 
 Prerequisites
 
@@ -18,7 +18,7 @@ Before running the game, ensure you have the following software installed:
 
 Setup
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 Clone the repository to your local machine:
 git clone <repository_url>
