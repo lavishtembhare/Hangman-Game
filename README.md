@@ -1,4 +1,4 @@
-# Hangman Game
+# Word Game
 
 This is a simple Hangman game implemented using Python and Tkinter with a MySQL backend to store player records (wins and losses). The game provides a graphical user interface (GUI) for players to guess letters and uncover a random word.
 
